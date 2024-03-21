@@ -1,0 +1,26 @@
+.footer { 
+    display: flex;
+    background-color: rgb(212, 207, 207);
+    width: 1fr;
+    height: 30vh;
+    margin-left: 350px;
+    border-radius: 10px 0 0 0 ;
+    box-shadow: 1px 1px 10px rgb(75, 75, 75);
+}
+table {
+    margin-left: 300px;
+    width: 1000px;
+}
+tbody td {
+    text-align: center;
+  }
+  tbody td:hover {
+    text-decoration: underline;
+  }
+  a:link {
+    text-decoration: none;
+    color: none;
+  }
+  a:visited {
+    color: black;
+  }
